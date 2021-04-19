@@ -1,2 +1,2 @@
-# dolfin
-The frontend for nessie made using SvelteKit & TailwindCSS
+# Dolfin
+Dolfin is Nessie's frontend made using SvleteKit & TailwindCSS
